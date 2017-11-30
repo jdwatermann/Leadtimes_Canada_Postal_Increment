@@ -1,0 +1,6 @@
+# Leadtimes Canada Postal Code Increment
+
+Program needs CSV file containing Whse#, ZipFrom, ZipTo, Leadtime and ShipVia  (Updated portion1 with name of CSV file)
+Verify naming convention of CSV file when using program.  (Create CSV with same name convention, update python code to match your CSV name)
+
+LastUpdated = 20171130
